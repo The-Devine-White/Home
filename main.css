@@ -1,0 +1,24 @@
+body {
+    font-family: cursive;
+    color: #303030;
+    margin: 4em;
+    background-color: aquamarine;
+}
+h1 {
+    font-family: 'Trebuchet MS';
+    /* color: blueviolet;     */
+    font-size: 4em;
+}
+div.episode {
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 5px 20px;
+    padding-bottom: 20px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+}
+div.episode iframe {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
