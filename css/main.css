@@ -22,3 +22,22 @@ div.episode iframe {
     height: 100%;
     border-radius: 10px;
 }
+footer {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+header {
+    /* font-family: 'Trebuchet MS'; */
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
